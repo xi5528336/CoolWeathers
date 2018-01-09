@@ -1,4 +1,4 @@
-package com.example.vera.coolweathers;
+package com.example.vera.coolweathers.db;
 
 import org.litepal.crud.DataSupport;
 
@@ -6,7 +6,7 @@ import org.litepal.crud.DataSupport;
  * Created by Vera on 2018/1/8/0008.
  */
 
-public class Country extends DataSupport {
+public class County extends DataSupport {
     private int id;
     private String countyName;
     private String weatherId;

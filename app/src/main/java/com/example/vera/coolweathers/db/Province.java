@@ -1,4 +1,4 @@
-package com.example.vera.coolweathers;
+package com.example.vera.coolweathers.db;
 
 import org.litepal.crud.DataSupport;
 

@@ -3,9 +3,9 @@
     <version value="1"/>
 
     <list>
-        <mapping class="com.example.vera.coolweathers.City"/>
-        <mapping class="com.example.vera.coolweathers.Country"/>
-        <mapping class="com.example.vera.coolweathers.Province"/>
+        <mapping class="com.example.vera.coolweathers.db.City"/>
+        <mapping class="com.example.vera.coolweathers.db.County"/>
+        <mapping class="com.example.vera.coolweathers.db.Province"/>
     </list>
 </litepal>
 
